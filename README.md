@@ -29,11 +29,7 @@ https://github.com/Pooja0629
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pooja0629&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pooja0629&show_icons=true" /> </p>
 
 ---
 
