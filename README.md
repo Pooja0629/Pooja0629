@@ -1,56 +1,54 @@
 # Hi 👋, I'm **Pooja**
 
-***_Aspiring Python and Software Developer with a strong foundation in application development and data handling_***
-
----
-
-## 🔭 Currently Working On
-
-**Real-Time Social Media Analytics Dashboard**  
-
-A Python-based application focused on analyzing and visualizing social media data to derive meaningful insights.
+***_Aspiring Software Development Engineer (SDE) with a strong interest in Full Stack Development_***
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Advanced Python programming
-- Backend development concepts
-- Data handling and visualization
-- Building scalable software applications
+- Full Stack Development (MERN)
+- Cloud Computing (AWS)
+- Containerization using Docker
+- CI/CD pipelines and DevOps tools
+- Backend development and scalable systems
 
 ---
 
-## Projects
+## 🚀 Projects
 
 View my work on GitHub:  
 https://github.com/Pooja0629
-
-## Reach Me
-
-Email: poojashree2266@gmail.com
-
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,mongodb,figma,postgresql,flask,express,vue,mysql,pandas,seaborn,fastapi" /> </p
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,mongodb,aws,docker,kubernetes,jenkins,linux,git,github,mysql,postgresql,figma" /> 
+</p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pooja0629&show_icons=true" />
-</p>
+## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pooja0629&show_icons=true" /> </p>
 
 ---
 
 ## 🤝 Connect with Me
 
-<p align="left"> <a href="mailto:poojashree2266@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" width="40" /> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/pooja-shree-187aa6293/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="40" /> </a> </p>
-
+📧 Email: [poojashree2266@gmail.com](mailto:poojashree2266@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/poojashree2906](https://www.linkedin.com/in/poojashree2906)
 
 ---
 
-> *“Every problem is an opportunity to build a better solution.”* 
+<p align="left"> 
+<a href="mailto:poojashree2266@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" width="40" /> 
+</a> &nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/poojashree2906" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40" /> 
+</a> 
+</p>
+
+---
+
+> *“Turning ideas into code and code into impact.”*
