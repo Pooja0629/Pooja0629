@@ -29,7 +29,7 @@ https://github.com/Pooja0629
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pooja0629&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pooja0629&show_icons=true&theme=tokyonight" />
 
 ---
 
