@@ -38,6 +38,7 @@ https://github.com/Pooja0629
 📧 Email: [poojashree2266@gmail.com](mailto:poojashree2266@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/poojashree2906](https://www.linkedin.com/in/poojashree2906)
 
+
 <p align="left"> 
 <a href="mailto:poojashree2266@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" width="40" /> 
@@ -46,5 +47,7 @@ https://github.com/Pooja0629
 <img src="https://skillicons.dev/icons?i=linkedin" width="40" /> 
 </a> 
 </p>
+
 ---
+
 > *“Turning ideas into code and code into impact.”*
