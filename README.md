@@ -26,11 +26,13 @@ https://github.com/Pooja0629
 <p align="left"> 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,mongodb,aws,docker,kubernetes,jenkins,linux,git,github,mysql,postgresql,figma" /> 
 </p>
+
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pooja0629&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pooja0629&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
