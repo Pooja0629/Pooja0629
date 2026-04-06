@@ -23,26 +23,9 @@ https://github.com/Pooja0629
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Programming & Development
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,mongodb,aws,docker,kubernetes,jenkins,linux,git,github,mysql,postgresql,figma" /> 
 </p>
-
-### 🌐 Full Stack
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux" />
-</p>
-
-### 🗄️ Databases & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,figma" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
