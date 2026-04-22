@@ -1,4 +1,4 @@
-# Hi 👋, I'm **Pooja**
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm **Pooja**
 
 ***_Aspiring Software Development Engineer (SDE) with a strong interest in Full Stack Development_***
 
@@ -38,6 +38,7 @@ https://github.com/Pooja0629
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com/?user=Pooja0629&theme=tokyonight" />
 </p>
+
 ---
 
 ## 🤝 Connect with Me
