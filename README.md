@@ -4,6 +4,17 @@
 
 ---
 
+## About Me
+
+💼 Cloud Computing Intern @ Corizo  
+🏆 Selected as Open Source Contributor at NSOC  
+💻 Full Stack Developer (MERN) building scalable web applications  
+☁️ Hands-on with AWS, Docker, and deployment workflows  
+🚀 Passionate about becoming a Software Development Engineer  
+💬 Ask me about MERN stack, GitHub, or cloud computing  
+
+---
+
 ## 🌱 Currently Exploring
 
 - Full Stack Development (MERN)
