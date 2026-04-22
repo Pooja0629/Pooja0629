@@ -31,12 +31,12 @@ https://github.com/Pooja0629
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pooja0629&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja0629&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pooja0629&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja0629&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=Pooja0629&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=Pooja0629&theme=tokyonight" />
 </p>
 ---
 
