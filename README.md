@@ -35,7 +35,7 @@ https://github.com/Pooja0629
 ## 🛠️ Technologies & Tools
 
 <p align="left"> 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,mongodb,aws,docker,kubernetes,jenkins,linux,git,github,mysql,postgresql,figma" /> 
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,aws,docker,kubernetes,jenkins,linux,git,github,mysql" /> 
 </p>
 
 ---
