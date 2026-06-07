@@ -41,13 +41,10 @@ https://github.com/Pooja0629
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=Pooja0629&theme=dark&background=0d1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja0629&layout=compact&theme=dark&bg_color=0d1117" />
-</p>
+  
+![Stats Card 1](https://awesome-github-stats.azurewebsites.net/user-stats/Pooja0629?theme=tokyonight)
 
-<p align="center">
   <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pooja0629&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" />
 </p>
 
